@@ -1,2 +1,2 @@
 Coba membuat file di repository github
-Belajar mengedit file dengan senang hati
+Ini adalah percobaan kedua untuk push
